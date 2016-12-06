@@ -9,6 +9,9 @@ twitter:
   username: ricardoerl
 logo: "/assets/img/parrot-profile.gif"
 
+facebook:
+  app_id: 2173397846219728
+
 # Build settings
 markdown: kramdown
 exclude:
