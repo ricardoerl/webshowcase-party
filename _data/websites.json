@@ -13,6 +13,12 @@
       "has_newsletter": true
     },
     {  
+      "name": "Typewolf",
+      "url": "https://www.typewolf.com/",
+      "curated_by": "Jeremiah Shoaf",
+      "has_newsletter": true
+    },
+    {  
       "name": "Land-book",
       "url": "https://land-book.com",
       "curated_by": "Land-book Team",
@@ -31,6 +37,12 @@
       "has_newsletter": false
     },
     {  
+      "name": "MinimalStuff",
+      "url": "http://minimalstuff.com/",
+      "curated_by": "Oykun",
+      "has_newsletter": false
+    },
+    {  
       "name": "One Page Love",
       "url": "https://onepagelove.com",
       "curated_by": "Rob Hope",
@@ -40,6 +52,12 @@
       "name": "Best Website Gallery",
       "url": "https://bestwebsite.gallery",
       "curated_by": "David Hellmann",
+      "has_newsletter": true
+    },
+    {  
+      "name": "Really Good Emails",
+      "url": "http://reallygoodemails.com/",
+      "curated_by": "Really Good Emails Team",
       "has_newsletter": true
     },
     {  
