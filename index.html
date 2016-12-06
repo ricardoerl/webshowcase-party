@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<div class="tc">
+{% for website in site.data.websites.websites %}
+  <a href="{{ website.url }}" class="link db pa3 bg-party black" target="_blank" rel="noopener">
+    <h1 class="f3 f-headline-ns mv1 truncate">{{ website.name }}</h1>
+    <p class="f6 f3-ns fw3 mv0 truncate">Curated by {{ website.curated_by }}</p>
+  </a>
+{% endfor %} 
+</div>

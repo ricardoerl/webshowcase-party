@@ -1,0 +1,20 @@
+title: Web Showcase Party
+email: contact@webshowcase.party
+description: > 
+  A curated showcase of curated showcases.
+baseurl: ""
+url: "http://webshowcase.party"
+assetsurl: "/assets/img/websites/"
+twitter:
+  username: ricardoerl
+logo: "/assets/img/parrot-profile.gif"
+
+# Build settings
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+# Plugins
+gems:
+- jekyll-seo-tag

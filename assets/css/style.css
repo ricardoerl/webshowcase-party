@@ -1,0 +1,135 @@
+.bg-party:hover,
+.bg-party:focus {
+  animation-name: bgPartyParrot;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  -webkit-animation-name: bgPartyParrot;
+  -webkit-animation-duration: 1s;
+  -webkit-animation-direction: alternate;
+  -webkit-animation-iteration-count: infinite;
+}
+
+@keyframes bgPartyParrot {
+  0% {
+    background-color: #FECE7A;
+  }
+  12% {
+    background-color: #7EFF7A;
+  }
+  24% {
+    background-color: #7EFFFF;
+  }
+  36% {
+    background-color: #7BA3FE;
+  }
+  48% {
+    background-color: #CB70FE;
+  }
+  60% {
+    background-color: #FC49F5;
+  }
+  78% {
+    background-color: #FC4EA7;
+  }
+  90% {
+    background-color: #FD5258;
+  }
+}
+
+@-webkit-keyframes bgPartyParrot {
+  0% {
+    background-color: #FECE7A;
+  }
+  12% {
+    background-color: #7EFF7A;
+  }
+  24% {
+    background-color: #7EFFFF;
+  }
+  36% {
+    background-color: #7BA3FE;
+  }
+  48% {
+    background-color: #CB70FE;
+  }
+  60% {
+    background-color: #FC49F5;
+  }
+  78% {
+    background-color: #FC4EA7;
+  }
+  90% {
+    background-color: #FD5258;
+  }
+}
+
+.fc-party {
+  animation-name: fcPartyParrot;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  -webkit-animation-name: fcPartyParrot;
+  -webkit-animation-duration: 1s;
+  -webkit-animation-direction: alternate;
+  -webkit-animation-iteration-count: infinite;
+}
+
+@keyframes fcPartyParrot {
+  0% {
+    color: #FECE7A;
+  }
+  12% {
+    color: #7EFF7A;
+  }
+  24% {
+    color: #7EFFFF;
+  }
+  36% {
+    color: #7BA3FE;
+  }
+  48% {
+    color: #CB70FE;
+  }
+  60% {
+    color: #FC49F5;
+  }
+  78% {
+    color: #FC4EA7;
+  }
+  90% {
+    color: #FD5258;
+  }
+}
+
+@-webkit-keyframes fcPartyParrot {
+  0% {
+    color: #FECE7A;
+  }
+  12% {
+    color: #7EFF7A;
+  }
+  24% {
+    color: #7EFFFF;
+  }
+  36% {
+    color: #7BA3FE;
+  }
+  48% {
+    color: #CB70FE;
+  }
+  60% {
+    color: #FC49F5;
+  }
+  78% {
+    color: #FC4EA7;
+  }
+  90% {
+    color: #FD5258;
+  }
+}
+
+/* Shame */
+.fb_iframe_widget_fluid {
+  display: inline-block!important;
+}

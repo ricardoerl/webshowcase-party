@@ -1,0 +1,58 @@
+{  
+  "websites":[  
+    {  
+      "name": "siteInspire",
+      "url": "https://www.siteinspire.com",
+      "curated_by": "Howells Studio",
+      "has_newsletter": true
+    },
+    {  
+      "name": "Nicely done",
+      "url": "http://nicelydone.club",
+      "curated_by": "Bertrand Bruandet",
+      "has_newsletter": true
+    },
+    {  
+      "name": "Land-book",
+      "url": "https://land-book.com",
+      "curated_by": "Land-book Team",
+      "has_newsletter": true
+    },
+    {  
+      "name": "ecomm.design",
+      "url": "https://ecomm.design",
+      "curated_by": "ecomm.design Team",
+      "has_newsletter": true
+    },
+    {  
+      "name": "Awwwards",
+      "url": "http://www.awwwards.com",
+      "curated_by": "Awwwards Judging Panel",
+      "has_newsletter": false
+    },
+    {  
+      "name": "One Page Love",
+      "url": "https://onepagelove.com",
+      "curated_by": "Rob Hope",
+      "has_newsletter": true
+    },
+    {  
+      "name": "Best Website Gallery",
+      "url": "https://bestwebsite.gallery",
+      "curated_by": "David Hellmann",
+      "has_newsletter": true
+    },
+    {  
+      "name": "CSS Design Awards",
+      "url": "http://www.cssdesignawards.com",
+      "curated_by": "CSS Design Awards Judging Panel",
+      "has_newsletter": true
+    },
+    {  
+      "name": "SiteSee",
+      "url": "https://sitesee.co",
+      "curated_by": "SiteSee Team",
+      "has_newsletter": true
+    }
+  ]
+}
