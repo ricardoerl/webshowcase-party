@@ -13,6 +13,12 @@
       "has_newsletter": true
     },
     {  
+      "name": "Httpster",
+      "url": "https://httpster.net",
+      "curated_by": "Httpster Team",
+      "has_newsletter": false
+    },
+    {  
       "name": "Typewolf",
       "url": "https://www.typewolf.com/",
       "curated_by": "Jeremiah Shoaf",
